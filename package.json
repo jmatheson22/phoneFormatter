@@ -1,0 +1,11 @@
+{
+  "name": "phoneTest",
+  "version": "0.0.1",
+  "description": "Phone Formatting",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies":{
+    "mocha": "*"
+  }
+}
